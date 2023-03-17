@@ -15,3 +15,9 @@ MonoBehaviour:
   question: 'Who is the biggest sleeper in march madness?
 
 '
+  answers:
+  - Alabama
+  - Kansas
+  - TCU
+  - Uconn
+  correctAnswerIndex: 3

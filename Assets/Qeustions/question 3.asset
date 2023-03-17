@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: question 3
   m_EditorClassIdentifier: 
   question: Who is the biggest fraud in March Madness?
+  answers:
+  - Texas
+  - Penn State
+  - 'Purdue '
+  - Duke
+  correctAnswerIndex: 2
